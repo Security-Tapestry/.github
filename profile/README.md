@@ -5,7 +5,7 @@
 
 <h3 align="center">Security Tapestry</h3>
 
-<p align="center"> Few lines describing your project.
+<p align="center"> A Comprehensive Cyber Security firm.
     <br> 
 </p>
 
@@ -23,11 +23,11 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This Organization may migrate to GH-Ent or Gitlab, so look out for that in the future.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+All ST-related code is meant to be version-controlled from here. Configure Git for your environment, sign in through Security Tapestry Teams Email, request to join Org. See [deployment](#deployment) for notes on standardization.
 
 ### Prerequisites
 
@@ -82,22 +82,3 @@ Add notes about how to use the system.
 ## 🚀 Deployment <a name = "deployment"></a>
 
 Add additional notes about how to deploy this on a live system.
-
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
-
-## ✍️ Authors <a name = "authors"></a>
-
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
-
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
