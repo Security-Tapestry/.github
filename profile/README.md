@@ -1,33 +1,20 @@
-<p align="center">
-  <a href="" rel="noopener">
- <img width=100px height=100px src="https://i.imgur.com/6wj0hh6.jpg" alt="ST logo"></a>
-</p>
+# Security Tapestry Code Repo
 
-<h3 align="center">Security Tapestry</h3>
-
-<p align="center"> A Comprehensive Cyber Security firm.
-    <br> 
-</p>
-
-## 📝 Table of Contents
+## Table of Contents
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
 - [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
-- [Authors](#authors)
-- [Acknowledgments](#acknowledgement)
+- [Pull Requests](#pull-template)
+- [TODO](..\TODO.md)
 
-## 🧐 About <a name = "about"></a>
+## About <a name = "about"></a>
 
-This Organization may migrate to GH-Ent or Gitlab, so look out for that in the future.
+We are a Cyber Security firm located in the US, this repo is for code review by ST actors ONLY. Pull requests from non-org accounts will be disregarded.
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## Getting Started <a name = "getting_started"></a>
 
-All ST-related code is meant to be version-controlled from here. Configure Git for your environment, sign in through Security Tapestry Teams Email, request to join Org. See [deployment](#deployment) for notes on standardization.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -55,30 +42,6 @@ until finished
 
 End with an example of getting some data out of the system or using it for a little demo.
 
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
+## Usage <a name = "usage"></a>
 
 Add notes about how to use the system.
-
-## 🚀 Deployment <a name = "deployment"></a>
-
-Add additional notes about how to deploy this on a live system.
