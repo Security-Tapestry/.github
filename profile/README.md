@@ -5,8 +5,8 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Pull Requests](#pull-template)
-- [TODO](..\TODO.md)
+- [Pull Requests](../pull_request_template.md)
+- [TODO](../TODO.md)
 
 ## About <a name = "about"></a>
 
@@ -14,34 +14,15 @@ We are a Cyber Security firm located in the US, this repo is for code review by 
 
 ## Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you started with our codebase.
 
-### Prerequisites
+### Suggested Packages
 
-What things you need to install the software and how to install them.
+On Windows, most utilities will be able to be installed with [winget](https://github.com/microsoft/winget-cli), which is installed by default on most Win10 machines, and can be patched in with [App Installer](https://www.microsoft.com/en-us/p/app-installer/9nblggh4nns1)
 
+```powershell
+winget install --id=Git.Git -e && winget install --id=GitHub.GitHubDesktop -e && winget install --id=gerardog.gsudo -e && winget install --id=Microsoft.VisualStudioCode -e && winget install --id=Microsoft.PowerShell
 ```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+Use the templates, use the recommended software. Meet us on [Teams](https://teams.microsoft.com/l/team/19%3afrROMGMMxD7bOpxhzJOsqVXrHJUpVDREO3TkGM7TIZ01%40thread.tacv2/conversations?groupId=dbdbd866-d8e5-4800-80b4-cfa01d548c5b&tenantId=3c9a8632-639d-407e-9eeb-a862fc54f3ae)
