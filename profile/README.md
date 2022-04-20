@@ -5,8 +5,8 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Pull Requests](../assets/pull_request_template.md)
-- [TODO](TODO.md)
+- [Pull Requests](/assets/pull_request_template.md)
+- [TODO](/profile/TODO.md)
 
 ## About <a name = "about"></a>
 
